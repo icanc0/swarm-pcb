@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/footprints")(options "")(descr ""))
+  (lib (name "poka-yoke_rxtx")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/footprints/poka-yoke_rxtx.pretty")(options "")(descr ""))
+)
