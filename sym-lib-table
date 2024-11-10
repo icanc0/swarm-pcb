@@ -27,4 +27,5 @@
   (lib (name "TP4065")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/symbols/TP4065.kicad_sym")(options "")(descr ""))
   (lib (name "1N5819WS")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/symbols/1N5819WS.kicad_sym")(options "")(descr ""))
   (lib (name "poka-yoke_rxtx")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/symbols/poka-yoke_rxtx.kicad_sym")(options "")(descr ""))
+  (lib (name "BM02B-SRSS-TB_(LF)(SN)")(type "KiCad")(uri "${KIPRJMOD}/kicad-library/symbols/BM02B-SRSS-TB_(LF)(SN).kicad_sym")(options "")(descr ""))
 )
