@@ -48516,20 +48516,20 @@
 		(uuid "bd6cbe5b-cc2b-4e52-9b04-f6df8e5cb5bb")
 	)
 	(segment
+		(start 102.05 133.8)
+		(end 103.05 132.8)
+		(width 0.127)
+		(layer "F.Cu")
+		(net 46)
+		(uuid "cc93b362-4ebd-47a2-930b-ab6490f9807a")
+	)
+	(segment
 		(start 101.851992 130.151992)
 		(end 100.901992 130.151992)
 		(width 0.127)
 		(layer "F.Cu")
 		(net 46)
 		(uuid "e2e9df6b-e11e-4206-a5c0-b1348cbd39bb")
-	)
-	(segment
-		(start 102.05 133.8)
-		(end 101.05 132.8)
-		(width 0.127)
-		(layer "B.Cu")
-		(net 46)
-		(uuid "cc93b362-4ebd-47a2-930b-ab6490f9807a")
 	)
 	(segment
 		(start 77.9 133.475)

@@ -3143,6 +3143,16 @@
 		)
 		(uuid "8f9e4bce-60ae-43f9-8004-0d5aeeb1efc3")
 	)
+	(text "LED would pull down \nthe line automatically."
+		(exclude_from_sim no)
+		(at 62.992 64.516 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "91fd15e3-4650-4fe8-b584-85dcb11f7d8e")
+	)
 	(text "battery to LDO through intrinsic diode, gate turns on"
 		(exclude_from_sim no)
 		(at 162.306 38.608 0)
